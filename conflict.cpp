@@ -8,6 +8,7 @@ int main(){
         cout<<i<<" ";
         z++;
     }
+    cout<<"Hello World";
 
     cout<<z<<i<<" ";
 }
