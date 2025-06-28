@@ -10,7 +10,12 @@ int main(){
         k--;
         z++;
     }
+<<<<<<< HEAD
     cout<<k<<" ";
+=======
+    cout<<"Hello World";
+
+>>>>>>> aditya
     cout<<z<<i<<" ";
 
 }
