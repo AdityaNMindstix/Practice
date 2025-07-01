@@ -1,2 +1,4 @@
-Product Name,Original Price,Discounted Price,Offer,Img Url,Is Hot Deal,Category,Sub types
-HP 17.3 laptop with Intel® Core™ i3 Processor, 8GB RAM 512GB SSD storage,$329.99,$579.99,URL,false,Computers & Accessories,"Asus,HP,Lenovo"
+Product Name,Original Price,Discounted Price,Offer,Img Url,Is Hot Deal,Category,Sub types,Deal For you
+"HP 17.3 laptop with Intel® Core™ i3 Processor, 8GB RAM 512GB SSD storage",$579.99,$329.99,"Save $6",URL,false,Computers & Accessories,"Asus,HP,Lenovo",false
+"Crayola® crayons, 24/pk",50¢,NULL,NULL,URL,true,Arts & Crafts,"Crayola",false
+"Staples® 1-subject notebook, college ruled, 70 pages",45¢,NULL,NULL,URL,false,Paper,"Staples",false
