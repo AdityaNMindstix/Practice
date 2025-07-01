@@ -1,473 +1,455 @@
 {
-    "carousel" : [
-        {
-            "id" : 1,
-            "title" :"That was easy",
-            "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1" 
-        },
-        {
-            "id" : 2,
-            "title" :"1-Hour pick in store",
-            "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        },
-        {
-            "id" : 3,
-            "title" :"My Deals",
-            "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        },
-        {
-            "id" : 4,
-            "title" :"Back to School",
-            "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        },
-        {
-            "id" : 5,
-            "title" :"Print & Market",
-            "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        },
-        {
-            "id" : 6,
-            "title" :"Travel Hub",
-            "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        },
-        {
-            "id" : 7,
-            "title" :"Travel and hub",
-            "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        }
-    ],
-
-
-    "banerSection" : [
-        {
-            "id" : 322332,
-            "title" : "Expert picks at prices you'll love.",
-            "bannerList" : [
-                {
-                    "productId" : 7556,
-                    "imgUrl" : "Link1",
-                    "currency" : null,
-                    "originalPrice" : null,
-                    "discountedPrice" : null,
-                    "desc" : null,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                },
-                {
-                    "productId" : 7557,
-                    "imgUrl" : "Link1",
-                    "currency" : null,
-                    "originalPrice" : null,
-                    "discountedPrice" : null,
-                    "desc" : null,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                }
-            ] 
-
-        },
-
-        {
-            "id" : 322287,
-            "title" : "Independence Day Deals",
-
-            "bannerList" : [
-                {
-                    "productId" : 7550,
-                    "imgUrl" : "Link1",
-                    "currency" : null,
-                    "originalPrice" : null,
-                    "discountedPrice" : null,
-                    "desc" : null,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                },
-                {
-                    "productId" : 7556,
-                    "imgUrl" : "Link2",
-                    "currency" : null,
-                    "originalPrice" : null,
-                    "discountedPrice" : null,
-                    "desc" : null,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                },
-                {
-                    "productId" : 7558,
-                    "imgUrl" : "Link3",
-                    "currency" : "$",
-                    "originalPrice" : 109.99,
-                    "discountedPrice" : 79.99,
-                    "desc" : "home printers for less" ,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                }
-
-            ] 
-
-        }
-    ],
-
-
-    "deal" : {
-        "id" : 123,
-        "dealName" : "Trending Deals",
-        "list" : [
+    "data": {
+        "carousel": [
             {
-                "productDetail" : {
-                    "id" : 3234,
-                    "productName" : "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
-                    "mainImgUrl" : "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
-                    "hoverImgUrl" : "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
-                    "instore" : false,
-                    "review" : {
-                        "rating" : 4.2,
-                        "count" : 782
-                    },
-                    "pricingDetail" : {
-                        "currency" : "$",
-                        "originalPrice" : 3.09,
-                        "discountPrice" : 0.50
-                    },
-                    "quantity" : 10,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                }
+                "id": 1,
+                "title": "That was easy",
+                "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
             },
             {
-                "productDetail" : {
-                    "id" : 3214,
-                    "productName" : "Staples® Manual Pencil Sharpener, Assorted Colors (10898-CC)",
-                    "mainImgUrl" : "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
-                    "hoverImgUrl" : "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
-                    "instore" : false,
-                    "review" : {
-                        "rating" : 4.2,
-                        "count" : 782
-                    },
-                    "pricingDetail" : {
-                        "currency" : "$",
-                        "originalPrice" : 3.09,
-                        "discountPrice" : 1
-                    },
-                    "quantity" : 30,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                }
+                "id": 2,
+                "title": "1-Hour pick in store",
+                "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
             },
             {
-                "productDetail" : {
-                    "id" : 3234,
-                    "productName" : "Staples Block Erasers, Pink, 3/Pack (10433-CC)",
-                    "mainImgUrl" : "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
-                    "hoverImgUrl" : "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
-                    "instore" : true,
-                    "review" : {
-                        "rating" : 4.2,
-                        "count" : 782
-                    },
-                    "pricingDetail" : {
-                        "currency" : "$",
-                        "originalPrice" : 3.09,
-                        "discountPrice" : 2
-                    },
-                    "quantity" : 10,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                }
+                "id": 3,
+                "title": "My Deals",
+                "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+            },
+            {
+                "id": 4,
+                "title": "Back to School",
+                "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+            },
+            {
+                "id": 5,
+                "title": "Print & Market",
+                "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+            },
+            {
+                "id": 6,
+                "title": "Travel Hub",
+                "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+            },
+            {
+                "id": 7,
+                "title": "Travel and hub",
+                "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
             }
-        ]
-    },
-
-    "category" : [
-        {
-            "id" : 221,
-            "title" : "Office Supplies",
-            "imgUrl" : "https://www.staples.com/Office-Supplies/cat_SC1",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        },
-        {
-            "id" : 222,
-            "title" : "Ink and Toner",
-            "imgUrl" : "https://www.staples.com/Office-Supplies/cat_SC1",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        },
-        {
-            "id" : 223,
-            "title" : "Copy Paper",
-            "imgUrl" : "https://www.staples.com/Office-Supplies/cat_SC1",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        },
-        {
-            "id" : 224,
-            "title" : "Food and breakroom",
-            "imgUrl" : "https://www.staples.com/Office-Supplies/cat_SC1",
-            "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-        }
-    ],
-
-    "middleBanerSection" : [
-        {
-            "id" : 322287,
-            "title" : "Get campus ready with these college must-haves.",
-
-            "bannerList" : [
+        ],
+        "banerSection": [
+            {
+                "title": "Expert picks at prices you'll love.",
+                "description" : null,
+                "bannerList": [
+                    {
+                        "productId": 7556,
+                        "imgUrl": "Link1",
+                        "currency": null,
+                        "originalPrice": null,
+                        "discountedPrice": null,
+                        "description": null,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    },
+                    {
+                        "productId": 7557,
+                        "imgUrl": "Link1",
+                        "currency": null,
+                        "originalPrice": null,
+                        "discountedPrice": null,
+                        "description": null,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    }
+                ]
+            },
+            {
+                "title": "Independence Day Deals",
+                "description" : null,
+                "bannerList": [
+                    {
+                        "productId": 7550,
+                        "imgUrl": "Link1",
+                        "currency": null,
+                        "originalPrice": null,
+                        "discountedPrice": null,
+                        "description": null,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    },
+                    {
+                        "productId": 7556,
+                        "imgUrl": "Link2",
+                        "currency": null,
+                        "originalPrice": null,
+                        "discountedPrice": null,
+                        "description": null,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    },
+                    {
+                        "productId": 7558,
+                        "imgUrl": "Link3",
+                        "currency": "$",
+                        "originalPrice": 109.99,
+                        "discountedPrice": 79.99,
+                        "description": "home printers for less",
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    }
+                ]
+            }
+        ],
+        "deal": {
+            "dealName": "Trending Deals",
+            "description" : null,
+            "list": [
                 {
-                    "productId" : 7550,
-                    "imgUrl" : "Link1",
-                    "currency" : null,
-                    "originalPrice" : null,
-                    "discountedPrice" : null,
-                    "desc" : null,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
-                    "discountTag" : null
+                    "productDetail": {
+                        "id": 3234,
+                        "productName": "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
+                        "mainImgUrl": "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
+                        "hoverImgUrl": "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
+                        "instore": false,
+                        "review": {
+                            "rating": 4.2,
+                            "count": 782
+                        },
+                        "pricingDetail": {
+                            "currency": "$",
+                            "originalPrice": 3.09,
+                            "discountPrice": 0.50
+                        },
+                        "quantity": 10,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    }
                 },
                 {
-                    "productId" : 7556,
-                    "imgUrl" : "Link2",
-                    "currency" : "$",
-                    "originalPrice" : 88.69,
-                    "discountedPrice" : null,
-                    "desc" :"Stock up on dorm room appliances",
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
-                    "discountTag" : null
+                    "productDetail": {
+                        "id": 3214,
+                        "productName": "Staples® Manual Pencil Sharpener, Assorted Colors (10898-CC)",
+                        "mainImgUrl": "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
+                        "hoverImgUrl": "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
+                        "instore": false,
+                        "review": {
+                            "rating": 4.2,
+                            "count": 782
+                        },
+                        "pricingDetail": {
+                            "currency": "$",
+                            "originalPrice": 3.09,
+                            "discountPrice": 1
+                        },
+                        "quantity": 30,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    }
                 },
                 {
-                    "productId" : 7558,
-                    "imgUrl" : "Link3",
-                    "currency" : null,
-                    "originalPrice" : null,
-                    "discountedPrice" : null,
-                    "desc" : "boxes, packing tape and more" ,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
-                    "discountTag" : "40% off"
-
+                    "productDetail": {
+                        "id": 3234,
+                        "productName": "Staples Block Erasers, Pink, 3/Pack (10433-CC)",
+                        "mainImgUrl": "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
+                        "hoverImgUrl": "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
+                        "instore": true,
+                        "review": {
+                            "rating": 4.2,
+                            "count": 782
+                        },
+                        "pricingDetail": {
+                            "currency": "$",
+                            "originalPrice": 3.09,
+                            "discountPrice": 2
+                        },
+                        "quantity": 10,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    }
                 }
-
-            ] 
-
+            ]
         },
-        {
-            "id" : 322332,
-            "title" : "From caps to classroom: gear up for every milestone.",
-            "bannerList" : [
-                {
-                    "productId" : 7556,
-                    "imgUrl" : "Link1",
-                    "currency" : null,
-                    "originalPrice" : null,
-                    "discountedPrice" : null,
-                    "desc" : null,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
-                    "discountTag" : "40% off"
-                },
-                {
-                    "productId" : 7557,
-                    "imgUrl" : "Link1",
-                    "currency" : null,
-                    "originalPrice" : null,
-                    "discountedPrice" : null,
-                    "desc" : null,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
-                    "discountTag" : "40% off"
-                }
-            ] 
-        },
-        {
+        "category": [
+            {
+                "id": 221,
+                "title": "Office Supplies",
+                "imgUrl": "https://www.staples.com/Office-Supplies/cat_SC1",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+            },
+            {
+                "id": 222,
+                "title": "Ink and Toner",
+                "imgUrl": "https://www.staples.com/Office-Supplies/cat_SC1",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+            },
+            {
+                "id": 223,
+                "title": "Copy Paper",
+                "imgUrl": "https://www.staples.com/Office-Supplies/cat_SC1",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+            },
+            {
+                "id": 224,
+                "title": "Food and breakroom",
+                "imgUrl": "https://www.staples.com/Office-Supplies/cat_SC1",
+                "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+            }
+        ],
+        "middleBanerSection": [
+            {
+                "title": "Get campus ready with these college must-haves.",
+                "description" : null,
+                "bannerList": [
+                    {
+                        "productId": 7550,
+                        "imgUrl": "Link1",
+                        "currency": null,
+                        "originalPrice": null,
+                        "discountedPrice": null,
+                        "description": null,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
+                        "discountTag": null
+                    },
+                    {
+                        "productId": 7556,
+                        "imgUrl": "Link2",
+                        "currency": "$",
+                        "originalPrice": 88.69,
+                        "discountedPrice": null,
+                        "description": "Stock up on dorm room appliances",
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
+                        "discountTag": null
+                    },
+                    {
+                        "productId": 7558,
+                        "imgUrl": "Link3",
+                        "currency": null,
+                        "originalPrice": null,
+                        "discountedPrice": null,
+                        "description": "boxes, packing tape and more",
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
+                        "discountTag": "40% off"
+                    }
+                ]
+            },
+            {
+                "id": 322332,
+                "title": "From caps to classroom: gear up for every milestone.",
+                "bannerList": [
+                    {
+                        "productId": 7556,
+                        "imgUrl": "Link1",
+                        "currency": null,
+                        "originalPrice": null,
+                        "discountedPrice": null,
+                        "description": null,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
+                        "discountTag": "40% off"
+                    },
+                    {
+                        "productId": 7557,
+                        "imgUrl": "Link1",
+                        "currency": null,
+                        "originalPrice": null,
+                        "discountedPrice": null,
+                        "description": null,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1",
+                        "discountTag": "40% off"
+                    }
+                ]
+            }
+        ],
+        "rececntItem": {
             
-        }
-    ],
-
-
-    "rececntItem" : {
-        "id" : 231231,
-        "title" : "Recently viewed",
-        "listOfItem" : [
-            {
-                "productDetail" : {
-                    "id" : 3234,
-                    "productName" : "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
-                    "mainImgUrl" : "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
-                    "hoverImgUrl" : "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
-                    "instore" : false,
-                    "review" : {
-                        "rating" : 4.2,
-                        "count" : 782
-                    },
-                    "pricingDetail" : {
-                        "currency" : "$",
-                        "originalPrice" : 3.09,
-                        "discountPrice" : 0.50
-                    },
-                    "quantity" : 10,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+            "title": "Recently viewed",
+            "description" : null,
+            "listOfItem": [
+                {
+                    "productDetail": {
+                        "id": 3234,
+                        "productName": "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
+                        "mainImgUrl": "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
+                        "hoverImgUrl": "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
+                        "instore": false,
+                        "review": {
+                            "rating": 4.2,
+                            "count": 782
+                        },
+                        "pricingDetail": {
+                            "currency": "$",
+                            "originalPrice": 3.09,
+                            "discountPrice": 0.50
+                        },
+                        "quantity": 10,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    }
+                },
+                {
+                    "productDetail": {
+                        "id": 3235,
+                        "productName": "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
+                        "mainImgUrl": "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
+                        "hoverImgUrl": "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
+                        "instore": false,
+                        "review": {
+                            "rating": 4.2,
+                            "count": 782
+                        },
+                        "pricingDetail": {
+                            "currency": "$",
+                            "originalPrice": 3.09,
+                            "discountPrice": 0.50
+                        },
+                        "quantity": 10,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    }
+                },
+                {
+                    "productDetail": {
+                        "id": 3236,
+                        "productName": "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
+                        "mainImgUrl": "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
+                        "hoverImgUrl": "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
+                        "instore": false,
+                        "review": {
+                            "rating": 4.2,
+                            "count": 782
+                        },
+                        "pricingDetail": {
+                            "currency": "$",
+                            "originalPrice": 3.09,
+                            "discountPrice": 0.50
+                        },
+                        "quantity": 10,
+                        "hrefLink": "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
+                    }
                 }
-            },
-            {
-                "productDetail" : {
-                    "id" : 3235,
-                    "productName" : "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
-                    "mainImgUrl" : "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
-                    "hoverImgUrl" : "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
-                    "instore" : false,
-                    "review" : {
-                        "rating" : 4.2,
-                        "count" : 782
-                    },
-                    "pricingDetail" : {
-                        "currency" : "$",
-                        "originalPrice" : 3.09,
-                        "discountPrice" : 0.50
-                    },
-                    "quantity" : 10,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                }
-            },
-            {
-                "productDetail" : {
-                    "id" : 3236,
-                    "productName" : "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
-                    "mainImgUrl" : "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
-                    "hoverImgUrl" : "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
-                    "instore" : false,
-                    "review" : {
-                        "rating" : 4.2,
-                        "count" : 782
-                    },
-                    "pricingDetail" : {
-                        "currency" : "$",
-                        "originalPrice" : 3.09,
-                        "discountPrice" : 0.50
-                    },
-                    "quantity" : 10,
-                    "hrefLink" : "https://www.staples.com/lp/easy?ivid=Pg%3AB%3BPl%3AHP%3BPt%3AB%3BCmp%3AVF_Easy_Slot1"
-                }
-            }
-        ]
-    },
-    "services" : [
-        {
-            "id" : 121,
-            "title" : "We print it all and we'll beat any print quote",
-            "subTitle" : "It's kind of our thing.",
-            "catergory" : "Print"
+            ]
         },
-        {
-            "id" : 124,
-            "title" : "XYZ",
-            "subTitle" : "ABC",
-            "catergory" : "Travel"
+        "services": [
+            {
+                "id": 121,
+                "title": "We print it all and we'll beat any print quote",
+                "subTitle": "It's kind of our thing.",
+                "catergory": "Print"
+            },
+            {
+                "id": 124,
+                "title": "XYZ",
+                "subTitle": "ABC",
+                "catergory": "Travel"
+            }
+        ],
+        "brands": {
+            "title": "Discover the entire line of Staples brands",
+            "description": "From furniture and paper to electronics, cleaning, janitorial supplies and more, Staples brands are tested to ensure high quality and performance in every product.",
+            "imagesLink": [
+                {
+                    "imgLink": "abc.com",
+                    "hrefLink": "xyz.com"
+                },
+                {
+                    "imgLink": "abc.com",
+                    "hrefLink": "xyz.com"
+                },
+                {
+                    "imgLink": "abc.com",
+                    "hrefLink": "xyz.com"
+                },
+                {
+                    "imgLink": "abc.com",
+                    "hrefLink": "xyz.com"
+                }
+            ]
+        },
+        "sponsoredProduct": {
+            "title" : "Sponsored Products",
+            "description" : null,
+            "listOfItem": [
+                {
+                    "productDetail": {
+                        "id": 323434,
+                        "productName": "Staedtler Pigment Liner Sketch Pen, Black Ink, 6/Set (308SB6BK)",
+                        "mainImgUrl": "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
+                        "hoverImgUrl": "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
+                        "instore": false,
+                        "review": {
+                            "rating": 4.2,
+                            "count": 782
+                        },
+                        "pricingDetail": {
+                            "currency": "$",
+                            "originalPrice": 23.09,
+                            "discountPrice": 23.09
+                        },
+                        "quantity": 10
+                    }
+                },
+                {
+                    "productDetail": {
+                        "id": 323611,
+                        "productName": "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
+                        "mainImgUrl": "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
+                        "hoverImgUrl": "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
+                        "instore": false,
+                        "newItem": true,
+                        "review": {
+                            "rating": 4.2,
+                            "count": 782
+                        },
+                        "pricingDetail": {
+                            "currency": "$",
+                            "originalPrice": 3.09,
+                            "discountPrice": 0.50
+                        },
+                        "quantity": 10
+                    }
+                },
+                {
+                    "productDetail": {
+                        "id": 323453,
+                        "productName": "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
+                        "mainImgUrl": "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
+                        "hoverImgUrl": "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
+                        "instore": false,
+                        "newItem": false,
+                        "review": {
+                            "rating": 4.2,
+                            "count": 782
+                        },
+                        "pricingDetail": {
+                            "currency": "$",
+                            "originalPrice": 3.09,
+                            "discountPrice": 0.50
+                        },
+                        "quantity": 10
+                    }
+                }
+            ]
+        },
+        "summary": {
+            "title": "Staples drives your business with an extensive product assortment wherever you need it.",
+            "description": "At Staples, we've been providing our customers with an extensive assortment of essential office supplies for over 35 years. From writing supplies and paper to shredders and school supplies, Staples is the office supply expert. We are a top provider of office chairs, desks, tables & office furniture. We also offer the latest technology—from laptops, computers & accessories, to printers, ink & toner, and more. We have all the tools you need to stay productive and connected, plus a wide assortment of unexpected new & trending products like luggage, smart home technology, gaming consoles & accessories, décor, and gift cards.",
+            "listOfItem": [
+                {
+                    "id": 3131312,
+                    "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                    "itemName": "Staples Travel Hub",
+                    "itemDescription": "Whether your next trip is for business or pleasure, Staples Travel Hub is your new destination for all things travel. Find luggage and travel accessories, and tech gadgets to make your trip run smoothly. Visit us in-store to take advantage of our TSA PreCheck and passport services."
+                },
+                {
+                    "id": 3131318,
+                    "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                    "itemName": "Health & Wellness",
+                    "itemDescription": "Staples range of health & wellness products can enhance your workspace and overall well-being. Shop ergonomic furniture & tech options, as well as smart watches, candles, essential oils & more. Our curved whiteboard has an ergonomically crafted shape to prevent strain. And a new selection of guided journals are available, with topics including anxiety & productivity"
+                },
+                {
+                    "id": 3131320,
+                    "imgUrl": "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
+                    "itemName": "School Essentials",
+                    "itemDescription": "For students and parents, Staples is a one-stop shop for all school supplies. Parents and students can find everything they need to succeed, from notebooks and art materials to backpacks and lunchboxes. Teachers will appreciate our extensive selection of classroom essentials, including educational materials, classroom decor, organizational tools, and more."
+                }
+            ]
         }
-    ],
-    "brands" : {
-        "title" : "Discover the entire line of Staples brands",
-        "desc" : "From furniture and paper to electronics, cleaning, janitorial supplies and more, Staples brands are tested to ensure high quality and performance in every product.",
-        "imagesLink" : [
-            {
-                "imgLink" : "abc.com",
-                "hrefLink" : "xyz.com"
-            },
-            {
-                "imgLink" : "abc.com",
-                "hrefLink" : "xyz.com"
-            },
-            {
-                "imgLink" : "abc.com",
-                "hrefLink" : "xyz.com"
-            },
-            {
-                "imgLink" : "abc.com",
-                "hrefLink" : "xyz.com"
-            }
-        ]
-    },
-    "sponsoredProduct" : {
-        "id" : 234222,
-        "listOfItem" : [
-            {
-                "productDetail" : {
-                    "id" : 323434,
-                    "productName" : "Staedtler Pigment Liner Sketch Pen, Black Ink, 6/Set (308SB6BK)",
-                    "mainImgUrl" : "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
-                    "hoverImgUrl" : "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
-                    "instore" : false,
-                    "review" : {
-                        "rating" : 4.2,
-                        "count" : 782
-                    },
-                    "pricingDetail" : {
-                        "currency" : "$",
-                        "originalPrice" : 23.09,
-                        "discountPrice" : 23.09
-                    },
-                    "quantity" : 10
-                }
-            },
-            {
-                "productDetail" : {
-                    "id" : 323611,
-                    "productName" : "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
-                    "mainImgUrl" : "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
-                    "hoverImgUrl" : "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
-                    "instore" : false,
-                    "newItem" : true,
-                    "review" : {
-                        "rating" : 4.2,
-                        "count" : 782
-                    },
-                    "pricingDetail" : {
-                        "currency" : "$",
-                        "originalPrice" : 3.09,
-                        "discountPrice" : 0.50
-                    },
-                    "quantity" : 10
-                }
-            },
-            {
-                "productDetail" : {
-                    "id" : 323453,
-                    "productName" : "Staples® Wooden Pencil, 2.2mm, #2 Medium Lead, 8/Pack (ST60571-US)",
-                    "mainImgUrl" : "https://www.staples.com/staples-wooden-pencil-2-2mm-2-medium-lead-8-pack-st60571-us/product_24514114",
-                    "hoverImgUrl" : "https://www.staples-3p.com/s7/is/image/Staples/61ED8C0D-0C8B-4C1B-85B804E09B8D485B_sc7?wid=700&hei=700",
-                    "instore" : false,
-                    "newItem" : false,
-                    "review" : {
-                        "rating" : 4.2,
-                        "count" : 782
-                    },
-                    "pricingDetail" : {
-                        "currency" : "$",
-                        "originalPrice" : 3.09,
-                        "discountPrice" : 0.50
-                    },
-                    "quantity" : 10
-                }
-            }
-        ]
-    },
-    "summary" : {
-        "id" : 231132,
-        "title" : "Staples drives your business with an extensive product assortment wherever you need it.",
-        "description" : "At Staples, we've been providing our customers with an extensive assortment of essential office supplies for over 35 years. From writing supplies and paper to shredders and school supplies, Staples is the office supply expert. We are a top provider of office chairs, desks, tables & office furniture. We also offer the latest technology—from laptops, computers & accessories, to printers, ink & toner, and more. We have all the tools you need to stay productive and connected, plus a wide assortment of unexpected new & trending products like luggage, smart home technology, gaming consoles & accessories, décor, and gift cards.",
-        "listOfItem": [
-            {
-                "id" : 3131312,
-                "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-                "itemName" : "Staples Travel Hub",
-                "itemDescription" : "Whether your next trip is for business or pleasure, Staples Travel Hub is your new destination for all things travel. Find luggage and travel accessories, and tech gadgets to make your trip run smoothly. Visit us in-store to take advantage of our TSA PreCheck and passport services."
-            },
-            {
-                "id" : 3131318,
-                "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-                "itemName" : "Health & Wellness",
-                "itemDescription" : "Staples range of health & wellness products can enhance your workspace and overall well-being. Shop ergonomic furniture & tech options, as well as smart watches, candles, essential oils & more. Our curved whiteboard has an ergonomically crafted shape to prevent strain. And a new selection of guided journals are available, with topics including anxiety & productivity"
-            },
-            {
-                "id" : 3131320,
-                "imgUrl" : "https://assets.staples-static.com/sbd/cre/products/250515/kcfep3353_easy/easy_button_visual_filters_v3_80x80.jpg",
-                "itemName" : "School Essentials",
-                "itemDescription" : "For students and parents, Staples is a one-stop shop for all school supplies. Parents and students can find everything they need to succeed, from notebooks and art materials to backpacks and lunchboxes. Teachers will appreciate our extensive selection of classroom essentials, including educational materials, classroom decor, organizational tools, and more."
-            }
-
-        ]
     }
-} 
+}
